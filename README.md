@@ -6,7 +6,7 @@ DevTree is a responsive client-side schema parsing application engineered using 
 ## Preview
 --------------------------------------------------------------------------
 
-![]
+![]()
 ##  Framework Implementation Details
 *  **Recursive Self-Referencing Templates:** Leverages Vue's ability to recursively trigger components (`TreeNode`) within themselves to navigate multi-tier tracking states dynamically.
 *  **Fault-Tolerant Lexing Engines:** Encapsulates JSON text analysis parameters securely behind computation shields to ensure format breaks are printed cleanly without breaking user runtime state interfaces.
