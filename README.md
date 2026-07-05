@@ -1,4 +1,5 @@
 #  DevTree — Interactive JSON-to-AST Visual Hierarchy Studio (Vue)
+----------------------------------------------------------------------------
 
 DevTree is a responsive client-side schema parsing application engineered using Vue.js v3 composition structures. It transforms multi-depth string data structures straight into clean, interactive recursive node trees, utilizing component self-invocation configurations and computed properties to compile property matrices live without frame drops.
 
