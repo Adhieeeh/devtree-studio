@@ -16,5 +16,6 @@ DevTree is a responsive client-side schema parsing application engineered using 
 
 ##  Running Instructions
 -----------------------------------------------------------------------------
+
 1. Install dependencies: `npm install`
 2. Run development compiler: `npm run dev`
