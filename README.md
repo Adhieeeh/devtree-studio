@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+#  DevTree — Interactive JSON-to-AST Visual Hierarchy Studio (Vue.js)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+DevTree is a responsive client-side schema parsing application engineered using Vue.js v3 composition structures. It transforms multi-depth string data structures straight into clean, interactive recursive node trees, utilizing component self-invocation configurations and computed properties to compile property matrices live without frame drops.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+##  Framework Implementation Details
+*  **Recursive Self-Referencing Templates:** Leverages Vue's ability to recursively trigger components (`TreeNode`) within themselves to navigate multi-tier tracking states dynamically.
+*  **Fault-Tolerant Lexing Engines:** Encapsulates JSON text analysis parameters securely behind computation shields to ensure format breaks are printed cleanly without breaking user runtime state interfaces.
+
+##  Running Instructions
+1. Install dependencies: `npm install`
+2. Run development compiler: `npm run dev`
