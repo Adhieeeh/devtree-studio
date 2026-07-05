@@ -15,5 +15,6 @@ DevTree is a responsive client-side schema parsing application engineered using 
 *  **Fault-Tolerant Lexing Engines:** Encapsulates JSON text analysis parameters securely behind computation shields to ensure format breaks are printed cleanly without breaking user runtime state interfaces.
 
 ##  Running Instructions
+-----------------------------------------------------------------------------
 1. Install dependencies: `npm install`
 2. Run development compiler: `npm run dev`
